@@ -104,7 +104,7 @@ input {
   background-color: rgb(124, 52, 52);
 }
 
-@media {
+@media (max-width: 600px) {
   .newLi:hover {
     background-color: transparent;
   }
