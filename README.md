@@ -14,5 +14,5 @@ CSS: Estilização para uma interface amigável.
 
 JavaScript: Lógica principal para adicionar e exibir as tarefas.
 
-Como Usar
+Como Usar:
 Basta clicar no link do meu deploy: https://to-do-list-virid-six.vercel.app/
