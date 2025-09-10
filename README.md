@@ -1,5 +1,5 @@
-# to-do-list
-To-Do List
+**To-Do List**
+
 Este é um projeto simples de uma To-Do List desenvolvido com JavaScript, HTML e CSS. A aplicação permite aos usuários adicionar e gerenciar tarefas de forma fácil e intuitiva.
 
 <img width="1628" height="862" alt="image" src="https://github.com/user-attachments/assets/cb999219-4ecc-48c0-8be0-98507741259b" />
