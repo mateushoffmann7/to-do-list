@@ -2,7 +2,7 @@
 
 Este é um projeto simples de uma To-Do List desenvolvido com JavaScript, HTML e CSS. A aplicação permite aos usuários adicionar e gerenciar tarefas de forma fácil e intuitiva.
 
-<img width="1628" height="862" alt="image" src="https://github.com/user-attachments/assets/cb999219-4ecc-48c0-8be0-98507741259b" />
+<img width="1137" height="849" alt="image" src="https://github.com/user-attachments/assets/2ff2e561-be53-4fcd-9a8a-fa36685fad45" />
 
 Funcionalidades
 Adicionar e Remover Tarefas: Insira uma tarefa no campo de texto e clique em "Adicionar" para incluí-la na sua lista.
