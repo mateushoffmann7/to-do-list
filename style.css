@@ -98,3 +98,7 @@ input {
   padding: 8px;
   cursor: pointer;
 }
+
+.newLi:hover {
+  background-color: rgb(124, 52, 52);
+}
