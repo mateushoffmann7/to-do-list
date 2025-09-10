@@ -13,3 +13,7 @@ button.addEventListener("click", () => {
     input.value = "";
   }
 });
+
+newLi.addEventListener("click", () => {
+  newLi.remove();
+});
