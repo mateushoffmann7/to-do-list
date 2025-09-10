@@ -102,3 +102,9 @@ input {
 .newLi:hover {
   background-color: rgb(124, 52, 52);
 }
+
+@media {
+  .newLi:hover {
+    background-color: transparent;
+  }
+}
